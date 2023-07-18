@@ -1,0 +1,8 @@
+@charset "utf-8";
+.list_headings {
+	color: #F400FB;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: large;
+}
