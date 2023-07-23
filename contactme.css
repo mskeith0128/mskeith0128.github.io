@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+nav {
+  /* Add styling for navigation links if needed */
+}
+
+main {
+  padding: 20px;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+.contact-item {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-item img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.contact-item a, .contact-item span {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-item a:hover {
+  color: #6f00ff;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
