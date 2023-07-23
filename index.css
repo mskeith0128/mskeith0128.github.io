@@ -1,0 +1,94 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0b0b0b;
+  color: #fff;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 32px;
+  margin: 0;
+}
+
+nav {
+  /* Add styling for navigation links if needed */
+}
+
+main {
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 0;
+  background-image: url('hero-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  max-width: 800px;
+  margin: 0 auto 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff6c00;
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #ff8c37;
+}
+
+.gallery {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.gallery h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.image-container {
+  display: inline-block;
+  margin: 10px;
+}
+
+.image-container img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.description {
+  margin-top: 40px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
